@@ -26,11 +26,12 @@ p {
 
 article {
     display: block;
+    
 }
 
 article svg {
     color: hsl(178, 100%, 50%);
-    float: left;
+
 }
 
 .eth {
@@ -39,7 +40,8 @@ article svg {
 }
 
 .clock {
-    color: hsl(215, 51%, 70%); 
+    color: hsl(215, 51%, 70%);
+    font-size: 9px; 
 }
 
 .creator img {

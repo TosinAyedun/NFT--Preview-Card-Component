@@ -30,6 +30,7 @@ article {
 
 article svg {
     color: hsl(178, 100%, 50%);
+    float: left;
 }
 
 .eth {
